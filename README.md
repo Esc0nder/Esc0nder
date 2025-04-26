@@ -1,5 +1,4 @@
-Hi 👋 My name is Esc0nder
-=========================hacker and engineer(both in training)-------------------------------------i am new to coding and hacking pretty good with electronics ham radio and basically electronics in general i dont have radio licence so no callsign but i will get one soon, i plan to make hacking tools for terminal in linux
+Hi 👋 My name is Esc
 
 ### Skills
 
